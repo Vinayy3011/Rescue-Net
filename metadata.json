@@ -1,0 +1,6 @@
+{
+  "name": "Rescue-Net – Emergency Communication & Coordination Platform",
+  "description": "Real-time emergency dispatch and victim SOS communication platform featuring live geospatial tracking, rescue team allocation, and data communication protocol inspection.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
